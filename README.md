@@ -9,6 +9,10 @@ WELCOME TO MY DATA ANALYSIS PROJECTS 📊
 
 --------------
 
+I created a chart in R which compares the sepal length, sepal width, petal length and petal width of various iris samples.
+
+--------------------------------------------------------------------------------------------------------------------------
+
 ![Image 1](https://github.com/cerovina/Irises-Graph/blob/main/IrisScreenshot.png?raw=true)
 _Image 1: The process_
 
@@ -26,7 +30,8 @@ _Image 2: The graph_
 
 -------------------------------------------------------------------------------------------------------------------------
 
-I created a chart in R which compares the sepal length, sepal width, petal length and petal width of various iris samples.
+![Image3](https://www.integratedots.com/wp-content/uploads/2019/06/iris_petal-sepal-e1560211020463.png)
+_Image 3: The flower_
 
 --------------------------------------------------------------------------------------------------------------------------
 
