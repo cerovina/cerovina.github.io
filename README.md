@@ -18,9 +18,7 @@ I created a chart in R which compares the sepal length, sepal width, petal lengt
 
 --------------------------------------------------------------------------------------------------------------------------
 
-## The code:
-
-------------
+The code:
 
 <sub>library(dplyr)
 mydata <- read.csv("iris.csv")
