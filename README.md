@@ -18,14 +18,6 @@ _Image 1: The iris flower_
 
 ------------------------------------------------------------------------------------------
 
-## • Sepal length _(blue)_
-## • Sepal width _(red)_
-## • Petal length _(green)_
-## • Petal width _(purple)_
-
--------------------------------------------------------------------------------------------------------------------------
-
-
 ![Image 2](https://github.com/cerovina/Irises-Graph/blob/main/IrisScreenshot.png?raw=true)
 _Image 2: The process_
 
@@ -34,7 +26,14 @@ _Image 2: The process_
 ![Image3](https://github.com/cerovina/Irises-Graph/blob/main/IrisesGraph.png?raw=true)
 _Image 3: The graph_
 
---------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------
+
+## • Sepal length _(blue)_
+## • Sepal width _(red)_
+## • Petal length _(green)_
+## • Petal width _(purple)_
+
+---------------------------
 
 ### Conclusion:
 
