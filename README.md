@@ -1,4 +1,4 @@
-WELCOME TO MY DATA ANALYSIS PROJECTS 📊
+Welcome to my data analysis projects! 📊
 ============================
 
 ----------------------------
