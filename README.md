@@ -66,7 +66,3 @@ The sepals, which are, in most flowers, usually green and smaller with a more pr
 <sub>fill=c("blue","red","green","purple"))</sub>
 
 -------------------------------------------------
-  
-Link to the GitHub repository: <a href="https://github.com/cerovina/Irises-Graph"> </a>
-
--------------------------------------------------------------------------
