@@ -1,4 +1,4 @@
-Alt-MY DATA ANALYSIS PROJECTS 📊
-================================
+MY DATA ANALYSIS PROJECTS 📊
+============================
 
 # 1) Irises
