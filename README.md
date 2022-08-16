@@ -30,24 +30,24 @@ I created a chart in R which compares the sepal length, sepal width, petal lengt
 
 ### The code:
 
-<sub>library(dplyr)
-        
-mydata <- read.csv("iris.csv")
+<sub>library(dplyr)</sub>
+
+<sub>mydata <- read.csv("iris.csv")</sub>
           
-mysubdata <- select(mydata, Sepal.Length, Sepal.Width, Petal.Length, Petal.Width, Species)
+<sub>mysubdata <- select(mydata, Sepal.Length, Sepal.Width, Petal.Length, Petal.Width, Species)</sub>
         
-mysubdata <- mysubdata[c(1,2,3,4)]
+<sub>mysubdata <- mysubdata[c(1,2,3,4)]</sub>
              
-mymatrix <- data.matrix(mysubdata)
+<sub>mymatrix <- data.matrix(mysubdata)</sub>
         
-mymatrixtrans <- t(mymatrix)
+<sub>mymatrixtrans <- t(mymatrix)</sub>
                  
-barplot(mymatrixtrans,
+<sub>barplot(mymatrixtrans,</sub>
                  
-        xlab="Iris samples",
+        <sub>xlab="Iris samples",</sub>
                  
-        col=c("blue","red","green","purple"))
+        <sub>col=c("blue","red","green","purple"))</sub>
                  
-legend("topleft",cex=0.5,c("Sepal length","Sepal width","Petal length","Petal width"),
+<sub>legend("topleft",cex=0.5,c("Sepal length","Sepal width","Petal length","Petal width"),</sub>
                  
-                 fill=c("blue","red","green","purple"))</sub>
+      <sub> fill=c("blue","red","green","purple"))</sub>
