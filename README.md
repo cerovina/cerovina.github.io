@@ -50,4 +50,4 @@ I created a chart in R which compares the sepal length, sepal width, petal lengt
                  
 <sub>legend("topleft",cex=0.5,c("Sepal length","Sepal width","Petal length","Petal width"),</sub>
                  
-      <sub> fill=c("blue","red","green","purple"))</sub>
+       <sub>fill=c("blue","red","green","purple"))</sub>
