@@ -8,9 +8,9 @@ MY DATA ANALYSIS PROJECTS 📊
 --------------
 
 ![Image 1](https://github.com/cerovina/Irises-Graph/blob/main/IrisScreenshot.png?raw=true)
-_Image1: The making_
+_Image 1: The making_
 ![Image2](https://github.com/cerovina/Irises-Graph/blob/main/IrisesGraph.png?raw=true)
-_Image2: The graph_
+_Image 2: The graph_
 
 --------------------------------------------------------------------------------------
 
