@@ -13,15 +13,10 @@ I created a chart in R which compares the sepal length, sepal width, petal lengt
 
 --------------------------------------------------------------------------------------------------------------------------
 
-![Image 1](https://github.com/cerovina/Irises-Graph/blob/main/IrisScreenshot.png?raw=true)
-_Image 1: The process_
+![Image1](https://www.integratedots.com/wp-content/uploads/2019/06/iris_petal-sepal-e1560211020463.png)
+_Image 1: The iris flower_
 
 ------------------------------------------------------------------------------------------
-
-![Image2](https://github.com/cerovina/Irises-Graph/blob/main/IrisesGraph.png?raw=true)
-_Image 2: The graph_
-
---------------------------------------------------------------------------------------
 
 ## • Sepal length _(blue)_
 ## • Sepal width _(red)_
@@ -30,8 +25,14 @@ _Image 2: The graph_
 
 -------------------------------------------------------------------------------------------------------------------------
 
-![Image3](https://www.integratedots.com/wp-content/uploads/2019/06/iris_petal-sepal-e1560211020463.png)
-_Image 3: The flower_
+
+![Image 2](https://github.com/cerovina/Irises-Graph/blob/main/IrisScreenshot.png?raw=true)
+_Image 2: The process_
+
+------------------------------------------------------------------------------------------
+
+![Image3](https://github.com/cerovina/Irises-Graph/blob/main/IrisesGraph.png?raw=true)
+_Image 3: The graph_
 
 --------------------------------------------------------------------------------------------------------------------------
 
