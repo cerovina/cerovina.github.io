@@ -35,6 +35,10 @@ _Image 3: The flower_
 
 --------------------------------------------------------------------------------------------------------------------------
 
+The sepals, which are, in most flowers, usually green and smaller with a more protective role, are in this case larger than the petals, as the graph shows. They are both large and colourful in irises, attracting and guiding many insects to their pollen.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ### The code:
 
 <sub>library(dplyr)</sub>
