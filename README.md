@@ -17,14 +17,14 @@ _Image 2: The graph_
 
 --------------------------------------------------------------------------------------
 
-I created a chart in R which compares the sepal length, sepal width, petal length and petal width of various iris samples.
+## 1.Sepal length _(blue)_
+## 2.Sepal width _(red)_
+## 3.Petal length _(green)_
+## 4.Petal width _(purple)_
 
 -------------------------------------------------------------------------------------------------------------------------
 
-## Sepal length _(blue)_
-## Sepal width _(red)_
-## Petal length _(green)_
-## Petal width _(purple)_
+I created a chart in R which compares the sepal length, sepal width, petal length and petal width of various iris samples.
 
 --------------------------------------------------------------------------------------------------------------------------
 
