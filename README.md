@@ -17,10 +17,10 @@ _Image 2: The graph_
 
 --------------------------------------------------------------------------------------
 
-## 1.Sepal length _(blue)_
-## 2.Sepal width _(red)_
-## 3.Petal length _(green)_
-## 4.Petal width _(purple)_
+## 1. Sepal length _(blue)_
+## 2. Sepal width _(red)_
+## 3. Petal length _(green)_
+## 4. Petal width _(purple)_
 
 -------------------------------------------------------------------------------------------------------------------------
 
