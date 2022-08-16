@@ -14,7 +14,7 @@ I created a chart in R which compares the sepal length, sepal width, petal lengt
 --------------------------------------------------------------------------------------------------------------------------
 
 ![Image1](https://www.integratedots.com/wp-content/uploads/2019/06/iris_petal-sepal-e1560211020463.png)
-_Image 1: The iris flower_
+_Image 1: Iris flower_
 
 ------------------------------------------------------------------------------------------
 
