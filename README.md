@@ -44,10 +44,10 @@ I created a chart in R which compares the sepal length, sepal width, petal lengt
                  
 <sub>barplot(mymatrixtrans,</sub>
                  
-        <sub>xlab="Iris samples",</sub>
+             xlab="Iris samples",
                  
-        <sub>col=c("blue","red","green","purple"))</sub>
+             col=c("blue","red","green","purple"))
                  
 <sub>legend("topleft",cex=0.5,c("Sepal length","Sepal width","Petal length","Petal width"),</sub>
                  
-       <sub>fill=c("blue","red","green","purple"))</sub>
+            fill=c("blue","red","green","purple"))
