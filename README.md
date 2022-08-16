@@ -35,6 +35,8 @@ _Image 3: The flower_
 
 --------------------------------------------------------------------------------------------------------------------------
 
+### Conclusion:
+
 The sepals, which are, in most flowers, usually green and smaller with a more protective role, are in this case larger than the petals, as the graph shows. Both sepals and petals are large and colourful in irises, attracting and guiding many insects to their pollen.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -42,23 +44,13 @@ The sepals, which are, in most flowers, usually green and smaller with a more pr
 ### The code:
 
 <sub>library(dplyr)</sub>
-
 <sub>mydata <- read.csv("iris.csv")</sub>
-          
 <sub>mysubdata <- select(mydata, Sepal.Length, Sepal.Width, Petal.Length, Petal.Width, Species)</sub>
-        
 <sub>mysubdata <- mysubdata[c(1,2,3,4)]</sub>
-             
 <sub>mymatrix <- data.matrix(mysubdata)</sub>
-        
 <sub>mymatrixtrans <- t(mymatrix)</sub>
-                 
 <sub>barplot(mymatrixtrans,</sub>
-                 
 <sub>xlab="Iris samples",</sub>
-                 
 <sub>col=c("blue","red","green","purple"))</sub>
-                 
 <sub>legend("topleft",cex=0.5,c("Sepal length","Sepal width","Petal length","Petal width"),</sub>
-                 
 <sub>fill=c("blue","red","green","purple"))</sub>
