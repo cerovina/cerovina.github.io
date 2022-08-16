@@ -35,11 +35,6 @@ _Image 3: The graph_
 
 ---------------------------
 
-Link to the GitHub repository: (https://github.com/cerovina/Irises-Graph)
-
--------------------------------------------------------------------------
----------------------------
-
 ### Conclusion:
 
 The sepals, which are, in most flowers, usually green and smaller with a more protective role, are in this case larger than the petals, as the graph shows. Both sepals and petals are large and colourful in irises, attracting and guiding many insects to their pollen.
@@ -69,3 +64,9 @@ The sepals, which are, in most flowers, usually green and smaller with a more pr
 <sub>legend("topleft",cex=0.5,c("Sepal length","Sepal width","Petal length","Petal width"),</sub>
   
 <sub>fill=c("blue","red","green","purple"))</sub>
+
+-------------------------------------------------
+  
+Link to the GitHub repository: https://github.com/cerovina/Irises-Graph
+
+-------------------------------------------------------------------------
