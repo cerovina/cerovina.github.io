@@ -41,28 +41,36 @@ The sepals, which are, in most flowers, usually green and smaller with a more pr
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### The code:
+# 2) Plant Tissue Culture Analysis :petri_dish:
 
-<sub>library(dplyr)</sub>
+----------------------------------
 
-<sub>mydata <- read.csv("iris.csv")</sub>
-  
-<sub>mysubdata <- select(mydata, Sepal.Length, Sepal.Width, Petal.Length, Petal.Width, Species)</sub>
-  
-<sub>mysubdata <- mysubdata[c(1,2,3,4)]</sub>
-  
-<sub>mymatrix <- data.matrix(mysubdata)</sub>
-  
-<sub>mymatrixtrans <- t(mymatrix)</sub>
-  
-<sub>barplot(mymatrixtrans,</sub>
-  
-<sub>xlab="Iris samples",</sub>
-  
-<sub>col=c("blue","red","green","purple"))</sub>
-  
-<sub>legend("topleft",cex=0.5,c("Sepal length","Sepal width","Petal length","Petal width"),</sub>
-  
-<sub>fill=c("blue","red","green","purple"))</sub>
+I created a heatmap in both Excel and R which represents the amount of contamination of plant tissue culture specimens by various pests.
 
--------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------
+
+![image1](https://github.com/cerovina/PlantTissueCulture1/blob/main/TableMp.png?raw=true)
+_Image 1: The data_
+
+-----------------------------------------------------------------------------------------
+
+![image2](https://github.com/cerovina/PlantTissueCulture1/blob/main/ChartMp.png?raw=true)
+_Image 2: Excel graph_
+
+-----------------------------------------------------------------------------------------
+
+![image3](https://github.com/cerovina/PlantTissueCulture1/blob/main/Rchart.png?raw=true)
+_Image 3: Code in R_
+
+-----------------------------------------------------------------------------------------
+
+![image4](https://github.com/cerovina/PlantTissueCulture1/blob/main/Rgraph.png?raw=true)
+_Image 4: R graph_
+
+------------------------------------------------------------------------------------------
+
+### Conclusion:
+
+The biggest contamination in all clones was caused by fungi, followed by bacteria.
+
+----------------------------------------------------------------------------------
