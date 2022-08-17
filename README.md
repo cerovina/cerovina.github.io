@@ -50,23 +50,28 @@ I created a heatmap in both Excel and R which represents the amount of contamina
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
-![image1](https://github.com/cerovina/PlantTissueCulture1/blob/main/TableMp.png?raw=true)
-_Image 1: The data_
+![image1](https://www.plantcelltechnology.com/product_images/uploaded_images/shutterstock-1164049147-min.jpg)
+_Image 1: Plant tissue culture samples_
+
+-------------------------------------------------------------------------------------------------
+
+![image2](https://github.com/cerovina/PlantTissueCulture1/blob/main/TableMp.png?raw=true)
+_Image 2: The data_
 
 -----------------------------------------------------------------------------------------
 
-![image2](https://github.com/cerovina/PlantTissueCulture1/blob/main/ChartMp.png?raw=true)
-_Image 2: Excel graph_
+![image3](https://github.com/cerovina/PlantTissueCulture1/blob/main/ChartMp.png?raw=true)
+_Image 3: Excel graph_
 
 -----------------------------------------------------------------------------------------
 
-![image3](https://github.com/cerovina/PlantTissueCulture1/blob/main/Rchart.png?raw=true)
-_Image 3: Code in R_
+![image4](https://github.com/cerovina/PlantTissueCulture1/blob/main/Rchart.png?raw=true)
+_Image 4: Code in R_
 
 -----------------------------------------------------------------------------------------
 
-![image4](https://github.com/cerovina/PlantTissueCulture1/blob/main/Rgraph.png?raw=true)
-_Image 4: R graph_
+![image5](https://github.com/cerovina/PlantTissueCulture1/blob/main/Rgraph.png?raw=true)
+_Image 5: R graph_
 
 ------------------------------------------------------------------------------------------
 
