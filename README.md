@@ -60,12 +60,12 @@ _Image 2: The data_
 
 -----------------------------------------------------------------------------------------
 
-![image3](https://github.com/cerovina/PlantTissueCulture1/blob/main/Rchart.png?raw=true)
+![image3](https://github.com/cerovina/PlantTissueCulture1/blob/main/RGRAPH1.png?raw=true)
 _Image 3: Code in R_
 
 -----------------------------------------------------------------------------------------
 
-![image4](https://github.com/cerovina/PlantTissueCulture1/blob/main/Rgraph.png?raw=true)
+![image4](https://github.com/cerovina/PlantTissueCulture1/blob/main/RCHART1.png?raw=true)
 _Image 4: R graph_
 
 ------------------------------------------------------------------------------------------
