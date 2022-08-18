@@ -60,7 +60,7 @@ _Image 2: The data_
 
 -----------------------------------------------------------------------------------------
 
-![image3](https://github.com/cerovina/PlantTissueCulture1/blob/main/RGRAPH1.png?raw=true)
+![image3](https://github.com/cerovina/PlantTissueCulture1/blob/main/Micropropagation1.png?raw=true)
 _Image 3: Code in R_
 
 -----------------------------------------------------------------------------------------
