@@ -60,18 +60,13 @@ _Image 2: The data_
 
 -----------------------------------------------------------------------------------------
 
-![image3](https://github.com/cerovina/PlantTissueCulture1/blob/main/ChartMp.png?raw=true)
-_Image 3: Excel graph_
+![image3](https://github.com/cerovina/PlantTissueCulture1/blob/main/Rchart.png?raw=true)
+_Image 3: Code in R_
 
 -----------------------------------------------------------------------------------------
 
-![image4](https://github.com/cerovina/PlantTissueCulture1/blob/main/Rchart.png?raw=true)
-_Image 4: Code in R_
-
------------------------------------------------------------------------------------------
-
-![image5](https://github.com/cerovina/PlantTissueCulture1/blob/main/Rgraph.png?raw=true)
-_Image 5: R graph_
+![image4](https://github.com/cerovina/PlantTissueCulture1/blob/main/Rgraph.png?raw=true)
+_Image 4: R graph_
 
 ------------------------------------------------------------------------------------------
 
