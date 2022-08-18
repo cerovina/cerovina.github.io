@@ -55,7 +55,7 @@ _Image 1: Plant tissue culture samples_
 
 -------------------------------------------------------------------------------------------------
 
-![image2](https://github.com/cerovina/PlantTissueCulture1/blob/main/TableMp.png?raw=true)
+![image2](https://github.com/cerovina/PlantTissueCulture1/blob/main/ExcelChart.png?raw=true)
 _Image 2: The data_
 
 -----------------------------------------------------------------------------------------
