@@ -60,7 +60,7 @@ _Image 2: The data_
 
 -----------------------------------------------------------------------------------------
 
-![image3](https://github.com/cerovina/PlantTissueCulture1/blob/main/TissueR.png?raw=true)
+![image3](https://github.com/cerovina/PlantTissueCulture1/blob/main/TissueCultureR.png?raw=true)
 _Image 3: Code in R_
 
 -----------------------------------------------------------------------------------------
