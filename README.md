@@ -50,7 +50,7 @@ I created a heatmap in both Excel and R which represents the amount of contamina
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
-![image1](https://t4.ftcdn.net/jpg/02/18/09/99/360_F_218099988_IzNsjSm8XoBMqdQFAe15idA1Se76pF3x.jpg)
+![image1](https://www.plantcelltechnology.com/product_images/uploaded_images/shutterstock-1164049147-min.jpg)
 _Image 1: Plant tissue culture samples_
 
 -------------------------------------------------------------------------------------------------
@@ -85,7 +85,7 @@ In this project I used Power BI to create several graphs which represent the cur
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![image1](file:///C:/Users/Nikola/Downloads/Pv1.webp)
+![image1](https://t4.ftcdn.net/jpg/02/18/09/99/360_F_218099988_IzNsjSm8XoBMqdQFAe15idA1Se76pF3x.jpg)
 _Image 1: Plasmopara viticola_
 
 -----------------------------------------------------
