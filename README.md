@@ -77,7 +77,7 @@ The biggest contamination in all clones was caused by fungi, followed by bacteri
 ----------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------
 
-# • Incubation Method of Prognosis
+# • Incubation Method of Prognosis :mushroom:
 
 ----------------------------------
 
