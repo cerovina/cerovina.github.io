@@ -5,7 +5,7 @@ DATA ANALYSIS PROJECTS 📊
 
 ----------------------------
 
-# 1) Irises 🌸
+# • Irises 🌸
 
 --------------
 
@@ -28,10 +28,10 @@ _Image 3: The graph_
 
 -------------------------------------------------------------------------------------------
 
-## • Sepal length _(blue)_
-## • Sepal width _(red)_
-## • Petal length _(green)_
-## • Petal width _(purple)_
+## - Sepal length _(blue)_
+## - Sepal width _(red)_
+## - Petal length _(green)_
+## - Petal width _(purple)_
 
 ---------------------------
 
@@ -42,7 +42,7 @@ The sepals, which are, in most flowers, usually green and smaller with a more pr
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# 2) Plant Tissue Culture 🧫
+# • Plant Tissue Culture 🧫
 
 ----------------------------------
 
@@ -76,3 +76,34 @@ The biggest contamination in all clones was caused by fungi, followed by bacteri
 
 ----------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------
+
+# • Incubation Method of Prognosis
+
+----------------------------------
+
+In this project I used Power BI to create several graphs which represent the current most accurate procedure of prognosing the appearance of Plasmopara viticola and other, similar fungi. 
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![image1](https://github.com/cerovina/Plasmopara-viticola/blob/main/Pv.png?raw=true)
+_Image 1: Power BI graphs_
+
+-------------------------------------------------------------------------------------------------------
+
+### The procedure:
+
+Each day we will measure and calculate the sum of average temperature, the incubations and the incubation period by average temperature. Those will provide us with new information every day on then the incubation period will end. May 25 was not taken into consideration as the temperature was below 12°C that day.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Image 2](https://github.com/cerovina/Plasmopara-viticola/blob/main/3pv.png?raw=true)
+_Image 2: The end of the incubation period_
+
+--------------------------------------------------------------------------------------
+
+### Conclusion:
+
+The prognosis, as days go by, continues to suggest that the incubation period will end on May 28 and that the conidium will appear during the night between May 28 and May 29 if the requiring conditions are met - T<12°C and RH>85%.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
