@@ -103,7 +103,7 @@ _Image 2: The end of the incubation period_
 
 ### Conclusion:
 
-The prognosis, as days go by, continues to suggest that the incubation period will end on May 28 and that the conidium will appear during the night between May 28 and May 29 if the requiring conditions are met - T<12°C and RH>85%.
+The prognosis, as days go by, continues to suggest that the incubation period will end on May 28 and that the conidium will appear during the night between May 28 and May 29 if the requiring conditions are met - T>12°C and RH>85%.
 In my country, Serbia, the protection is usually done after the second incubation period as the infections after the first incubation period are rare due to bad conditions for the formation of conidium.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
