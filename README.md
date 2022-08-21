@@ -97,7 +97,7 @@ Each day we will measure and calculate the sum of the average daily temperature,
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![Image 2](https://github.com/cerovina/Plasmopara-viticola/blob/main/3pv.png?raw=true)
-_Image 2: The end of the incubation period_
+_Image 2: Days until the end_
 
 --------------------------------------------------------------------------------------
 
