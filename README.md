@@ -85,7 +85,7 @@ In this project I used Power BI to create several graphs which represent the cur
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![image1](https://wewarriors.life/pics/plantcaretoday.com/wp-content/uploads/downy-mildew-1200-630-FB-03312019-min.jpg)
+![image1](https://github.com/cerovina/Plasmopara-viticola/blob/main/PlasmoparaImage.jpg?raw=true)
 _Image 1: Plasmopara viticola_
 
 -----------------------------------------------------
