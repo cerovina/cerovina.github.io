@@ -85,8 +85,13 @@ In this project I used Power BI to create several graphs which represent the cur
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+![image1](file:///C:/Users/Nikola/Downloads/Pv1.webp)
+_Image 1: Plasmopara viticola_
+
+-----------------------------------------------------
+
 ![image1](https://github.com/cerovina/Plasmopara-viticola/blob/main/Pv.png?raw=true)
-_Image 1: Power BI graphs_
+_Image 2: Power BI graphs_
 
 -------------------------------------------------------------------------------------------------------
 
@@ -97,7 +102,7 @@ Each day we will measure and calculate the sum of the average daily temperature,
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![Image 2](https://github.com/cerovina/Plasmopara-viticola/blob/main/3pv.png?raw=true)
-_Image 2: Days until the end_
+_Image 3: Days until the end_
 
 --------------------------------------------------------------------------------------
 
