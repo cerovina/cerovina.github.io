@@ -10,6 +10,8 @@
 <br/>
 
 -------------------
+
+<br/>
 <h1 align="center">
   • Irises 🌸
   </h1>
@@ -53,6 +55,8 @@ The sepals, which are, in most flowers, usually green and smaller with a more pr
 <br/>
 
 ---------------------------
+
+<br/>
 <h1 align="center">
   • Plant Tissue Culture 🧫
   </h1>
@@ -93,6 +97,8 @@ The biggest contamination in all clones was caused by fungi, followed by bacteri
 <br/>
 
 -------------------------------------
+
+<br/>
 <h1 align="center">
   • Incubation Method of Prognosis 🍄
   </h1>
