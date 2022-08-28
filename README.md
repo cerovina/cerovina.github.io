@@ -2,12 +2,15 @@
 
 -----------------------------------------------------------------------
 
-# Hi! I created this website to share my progress in learning data analysis and visualization with interesting projects. Here are some of them:
-
+<h1 align="center">
+  Hi! I created this website to share my progress in learning data analysis and visualization with interesting projects. Here are some of them:
+  </h1>
 --------------------------------------------------------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------------------------------------------------------
 
-# • Irises 🌸
+<h1 align="center">
+  • Irises 🌸
+  </h1>
 
 --------------
 
@@ -44,7 +47,9 @@ The sepals, which are, in most flowers, usually green and smaller with a more pr
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# • Plant Tissue Culture 🧫
+<h1 align="center">
+  • Plant Tissue Culture 🧫
+  </h1>
 
 ----------------------------------
 
@@ -79,7 +84,9 @@ The biggest contamination in all clones was caused by fungi, followed by bacteri
 ----------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------
 
-# • Incubation Method of Prognosis 🍄
+<h1 align="center">
+  • Incubation Method of Prognosis 🍄
+  </h1>
 
 ----------------------------------
 
