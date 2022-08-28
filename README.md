@@ -1,4 +1,5 @@
 ![Image0](https://github.com/cerovina/first/blob/main/012.jpg?raw=true)
+
 -----------------------------------------------------------------------
 
 # Hi! I created this website to share my progress in learning data analysis and visualization with interesting projects. Here are some of them:
