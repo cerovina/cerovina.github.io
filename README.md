@@ -13,7 +13,7 @@
 
 <br/>
 <h1 align="center">
-  • Irises 🌸
+   Irises 🌸
   </h1>
   <br/>
   
@@ -41,10 +41,10 @@ _Image 3: The graph_
 
 <br/>
 
-## - Sepal length _(blue)_
-## - Sepal width _(red)_
-## - Petal length _(green)_
-## - Petal width _(purple)_
+- Sepal length _(blue)_ 
+- Sepal width _(red)_
+- Petal length _(green)_
+- Petal width _(purple)_
 
 <br/>
 
@@ -58,7 +58,7 @@ The sepals, which are, in most flowers, usually green and smaller with a more pr
 
 <br/>
 <h1 align="center">
-  • Plant Tissue Culture 🧫
+   Plant Tissue Culture 🧫
   </h1>
   <br/>
   
@@ -100,7 +100,7 @@ The biggest contamination in all clones was caused by fungi, followed by bacteri
 
 <br/>
 <h1 align="center">
-  • Incubation Method of Prognosis 🍄
+   Incubation Method of Prognosis 🍄
   </h1>
   <br/>
   
