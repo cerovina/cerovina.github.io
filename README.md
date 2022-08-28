@@ -7,7 +7,6 @@
   </h1>
   
 --------------------------------------------------------------------------------------------------------------------------------------------
---------------------------------------------------------------------------------------------------------------------------------------------
 
 <h1 align="center">
   • Irises 🌸
@@ -46,7 +45,6 @@ _Image 3: The graph_
 The sepals, which are, in most flowers, usually green and smaller with a more protective role, are in this case larger than the petals, as the graph shows. Both sepals and petals are large and colourful in irises, attracting and guiding many insects to their pollen.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <h1 align="center">
   • Plant Tissue Culture 🧫
@@ -82,7 +80,6 @@ _Image 4: R graph_
 
 The biggest contamination in all clones was caused by fungi, followed by bacteria.
 
-----------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------
 
 <h1 align="center">
@@ -121,5 +118,4 @@ _Image 3: Days until the end_
 The prognosis, as days go by, continues to suggest that the incubation period will end on May 28 and that the conidium will appear during the night between May 28 and May 29 if the requiring conditions are met - T>12°C and RH>85%.
 In my country, Serbia, the protection is usually done after the second incubation period as the infections after the first incubation period are rare due to bad conditions for the formation of conidium.
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
