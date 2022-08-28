@@ -8,13 +8,15 @@
   </h1>
   
 <br/>
-<br/>
+
+-------------------
 
 <h1 align="center">
   • Irises 🌸
   </h1>
 
-<br/>
+-------------------
+
 <br/>
 
 I created a chart in R which compares the sepal length, sepal width, petal length and petal width of various iris samples.
@@ -49,13 +51,15 @@ _Image 3: The graph_
 The sepals, which are, in most flowers, usually green and smaller with a more protective role, are in this case larger than the petals, as the graph shows. Both sepals and petals are large and colourful in irises, attracting and guiding many insects to their pollen.
 
 <br/>
-<br/>
+
+---------------------------
 
 <h1 align="center">
   • Plant Tissue Culture 🧫
   </h1>
 
-<br/>
+---------------------------
+
 <br/>
 
 I created a heatmap in both Excel and R which represents the amount of contamination of plant tissue culture specimens by various pests.
@@ -87,13 +91,15 @@ _Image 4: R graph_
 The biggest contamination in all clones was caused by fungi, followed by bacteria.
 
 <br/>
-<br/>
+
+-------------------------------------
 
 <h1 align="center">
   • Incubation Method of Prognosis 🍄
   </h1>
 
-<br/>
+-------------------------------------
+
 <br/>
 
 In this project I used Power BI to create several graphs which represent the current most accurate procedure of prognosing the appearance of Plasmopara viticola and other, similar fungi. 
