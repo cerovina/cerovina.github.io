@@ -1,4 +1,4 @@
-![Image0](https://github.com/cerovina/cerovina.github.io/blob/main/shutterstock-1164049147-min.jpg?raw=true)
+![Image0](https://github.com/cerovina/cerovina.github.io/blob/main/pic.jpg?raw=true)
 
 <br/>
 
