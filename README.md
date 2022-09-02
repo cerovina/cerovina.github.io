@@ -3,7 +3,8 @@
 <br/>
 
 <h1 align="center">
-  Hi! I created this website to share my progress in learning data analysis and visualization with interesting projects.<br/>
+  Hi!<br/>
+  I created this website to share my progress in learning data analysis and visualization with interesting projects.<br/>
   Here are some of them:
   </h1>
   
