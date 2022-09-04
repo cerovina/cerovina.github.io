@@ -122,7 +122,7 @@ _Image 2: Power BI graphs_
 
 <br/>
 
-### The procedure:
+### Procedure:
 
 Each day we will measure and calculate the sum of the average daily temperature, the incubations and the incubation period by average temperature. Those will provide us with new information every day on when the incubation period will end. May 25 was not taken into consideration as the temperature was below 12°C that day.
 
